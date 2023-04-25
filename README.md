@@ -1,6 +1,6 @@
 # Market-basket-analysis
 
-## This program demonstrates a simple example of Market Basket Analysis using the Apriori algorithm in Python. Market Basket Analysis is a technique used to identify associations and relationships between different items in a dataset, such as items purchased together in a store.
+This program demonstrates a simple example of Market Basket Analysis using the Apriori algorithm in Python. Market Basket Analysis is a technique used to identify associations and relationships between different items in a dataset, such as items purchased together in a store.
 
 ## Dependencies
 To run this program, you'll need the following Python libraries:
